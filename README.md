@@ -94,9 +94,9 @@ Web Development, Programming, and Database Management.
 
 # ✍️ Random Dev Quote
 
-> *“People don't care about what you say, they care about what you build.”*
+###  *“People don't care about what you say, they care about what you build.”*
 >
-> — *Mark Zuckerberg*
+###                         — *Mark Zuckerberg*
 
 ---
 
